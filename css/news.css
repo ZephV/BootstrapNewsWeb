@@ -1,0 +1,30 @@
+.news-title{
+	font-size: 25px;
+	font-weight: bold;
+	line-height: 1.5;
+	padding-bottom: 10px;
+}
+
+.news-status{
+	color: #666;
+}
+
+.news-status .label-default{
+	opacity: .8;
+}
+
+.news-content {
+	margin-top: 20px;
+	font-size: 15px;
+	line-height: 1.5;
+}
+
+.news-content img{
+	margin-top:10px;
+	margin-bottom: 10px;
+}
+
+.no-padding-h{
+	padding-left: 0;
+	padding-right: 0;
+}
