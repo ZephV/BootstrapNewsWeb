@@ -1,6 +1,8 @@
 # BootstrapNewsWeb
 Bootstrap框架做的简易新闻网站.
 
+[页面预览](https://zephv.github.io/BootstrapNewsWeb/index.html)
+
 ## 效果展示
 
 首页
